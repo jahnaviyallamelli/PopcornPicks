@@ -11,7 +11,7 @@ Welcome to UsePopcorn, a React project that allows you to fetch movie details, e
     - Add movies to your watchlist by clicking the Add to Watchlist button.
     - This allows you to keep track of movies you want to watch later.
   - ### Rate Movies
-    - Rate movies by assigning a star rating (out of 5).
+    - Rate movies by assigning a star rating (out of 10).
     - Your ratings will be saved locally and can be used to track your preferences.
   - ### Remove from Watchlist
     - Remove movies from your watchlist if you no longer wish to keep them.
