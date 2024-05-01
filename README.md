@@ -5,8 +5,6 @@ Welcome to UsePopcorn, a React project that allows you to fetch movie details, e
   - ### Search and Fetch Movie Details
     - Use the search bar to enter the name of a movie and fetch its details including genres and cast.
     - Display important information about the movie such as title, release year, runtime, and plot synopsis.
-  - ### Explore Genres
-    - Click on a specific genre to browse movies within that genre and discover related content.
   - ### View Cast Information
     - Find out more about the cast members of a movie, including their names and roles.
   - ### Add to Watchlist
