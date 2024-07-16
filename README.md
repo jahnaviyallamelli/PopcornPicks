@@ -1,4 +1,4 @@
-# UsePopcorn 
+# PopcornPicks 
 Welcome to UsePopcorn, a React project that allows you to fetch movie details, explore genres, view cast information, and manage your watchlist by adding or removing movies.
 
 ## Features
